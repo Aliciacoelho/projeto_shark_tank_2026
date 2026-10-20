@@ -1,34 +1,23 @@
 
-# Banco de Dados
+# Banco de Dados, MER e DER
 
-## MER e DER
+## 1. Banco de Dados
 
-Este projeto apresenta a modelagem do banco de dados, utilizando o Modelo Entidade-Relacionamento (MER) e o Diagrama Entidade-Relacionamento (DER).
+Nesta seção, será apresentada a estrutura do banco de dados do projeto.
 
-## MER — Modelo Entidade-Relacionamento
+![Banco de Dados](./imagens/banco_de_dados.png)
 
-O MER representa as entidades, seus atributos e os relacionamentos do banco de dados.
+## 2. MER — Modelo Entidade-Relacionamento
 
-## DER — Diagrama Entidade-Relacionamento
+O MER representa as entidades, os atributos e os relacionamentos do sistema.
 
-O DER apresenta graficamente a estrutura do banco de dados, incluindo entidades, atributos, chaves primárias (PK), chaves estrangeiras (FK) e relacionamentos.
+![MER](./imagens/mer.inovatech.drawio.png)
 
-## Diagramas
+## 3. DER — Diagrama Entidade-Relacionamento
 
-<table>
-  <tr>
-    <th>MER</th>
-    <th>DER</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./imagens/mer.png" width="400" alt="MER">
-    </td>
-    <td align="center">
-      <img src="./imagens/der.png" width="400" alt="DER">
-    </td>
-  </tr>
-</table>
+O DER representa graficamente a estrutura do banco de dados, incluindo entidades, atributos, chaves primárias (PK), chaves estrangeiras (FK) e relacionamentos.
+
+![DER](./imagens/der.inovatech.drawio.png)
 
 ---
 
