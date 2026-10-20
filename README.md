@@ -1,6 +1,3 @@
-
-# Banco de Dados, MER e DER
-
 ## 1. Banco de Dados
 
 Nesta seção, será apresentada a estrutura do banco de dados do projeto.
@@ -74,5 +71,3 @@ O DER representa graficamente a estrutura do banco de dados, incluindo entidades
 ![DER](./imagens/der.inovatech.drawio.png)
 
 ---
-
-Desenvolvido para fins acadêmicos.
