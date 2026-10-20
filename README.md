@@ -5,8 +5,9 @@
 
 Nesta seção, será apresentada a estrutura do banco de dados do projeto.
 
-![Banco de Dados](./imagens/banco_de_dados.png)
+```
 
+```
 ## 2. MER — Modelo Entidade-Relacionamento
 
 O MER representa as entidades, os atributos e os relacionamentos do sistema.
